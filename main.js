@@ -3,13 +3,7 @@ window.jQuery = function(nodeOrSelector){
   nodes.addClass = function(){}
   nodes.html = function(){}
   return nodes
-  //test
-  //test2
-  //提交得时候怎么不用写东西
-  //测试4
-  //主分支测试
-  //主分支测试2
-  //继续测试
+
 }
 window.$ = window.jQuery
 

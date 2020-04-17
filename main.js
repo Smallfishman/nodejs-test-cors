@@ -9,6 +9,7 @@ window.jQuery = function(nodeOrSelector){
   //测试4
   //主分支测试
   //主分支测试2
+  //继续测试
 }
 window.$ = window.jQuery
 
